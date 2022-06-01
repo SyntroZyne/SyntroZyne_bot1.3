@@ -1,1 +1,4 @@
 #ah damn
+language = "python"
+
+run = "main.py"
